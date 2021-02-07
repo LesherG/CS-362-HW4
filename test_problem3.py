@@ -1,11 +1,8 @@
 #Gavin Lesher
 #2/6/2021
 import unittest
+import problem3
 
-
-#-----to test for error handled code, comment the next line(7) and uncomment the line after that (8)-----
-#import problem3
-import problem3_errorhandled as problem3
 
 
 class TestProblem3Methods(unittest.TestCase):
